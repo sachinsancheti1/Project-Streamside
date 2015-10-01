@@ -1,0 +1,61 @@
+table tr:nth-child(2n+1) {
+	/*  background: #E8F2FF; */
+	background: #EFEEDD;
+}
+table tr:nth-child(2n) {
+	/*  background: #E8F2FF; */
+	background: #eae8ff;
+}
+
+em {
+	margin: 10px;
+	padding: 0;
+	border: 0;
+	font: inherit;
+	vertical-align: baseline;
+	font-style:italic;
+	font-size: 22px;
+	text-align: center;
+	color: #af2b29;
+}
+
+p {
+	background-color: rgba(255, 255, 255, .80);
+	border-radius: 4px 4px 4px 2px;
+	padding: 10px;
+}
+
+article p, article li, article li.build, section p, section li {
+	background-color: rgba(255, 255, 255, .80);
+	border-radius: 4px 4px 4px 2px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+img {
+	margin-top:-20px;
+	max-height: 560px;
+	max-width: 978px;
+}
+
+slide:not(.segue) h2 {
+	font-family: "Open Sans Condensed";
+	font-weight: 700;
+	color: darkslategray;
+	background-color: rgba(255, 255, 255, .80);
+	border-radius: 4px 4px 4px 2px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+#slide-1 {
+	background: url(Streamside_topview.jpg)
+}
+
+h3 {
+    font-size: 30px;
+    letter-spacing: -1px;
+    line-height: 2;
+    font-weight: bold;
+    color: #D65C5C;
+}
