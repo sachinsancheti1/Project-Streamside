@@ -15,15 +15,15 @@ knit        : slidify::knit2slides
 
 ## PROJECT STREAMSIDE
 
-The vision is ________
+Streamside is a residential project which covers over 5 acres. Today we are embarking on our journey to give you 13 homes, giving you the choice of space and the customized features that will make this your dream home come to reality
 
-The project comprises of 5 acres within the 33 acre compound which earlier was used for an industrial estate
+Earlier an industrial estate spread over 33 acres, the place has seen a major transformation from the day we began to what we will see in the near future.
 
 --- &custbg bg:"./assets/img/Site-view.jpg"
 
 ## PARTNERS
 
-Streamside Ketti is a project undertaken by the Coonoor Tea Estate group and the Vitrag Group through a JV.
+Streamside Ketti is a project undertaken by the Gurensey Estate group and the Vitrag Group through a JV.
 
 *** =left
 
@@ -104,7 +104,7 @@ Streamside Ketti is a project undertaken by the Coonoor Tea Estate group and the
 
 >* *Floor Plan of Unit 1*
 
->* ![Floor Plan](assets/img/Sketches/Unit1.png)
+>* ![Floor Plan](assets/img/Sketches/Unit1.jpg)
 
 ---  &custbg bg:"./assets/img/Unit2.jpg"
 
